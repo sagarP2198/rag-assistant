@@ -1,0 +1,11 @@
+[
+  "test_text_chunker.py::test_chunks_respect_maximum_size",
+  "test_text_chunker.py::test_empty_text_returns_no_chunks",
+  "test_text_chunker.py::test_invalid_overlap_raises_error",
+  "test_text_chunker.py::test_short_text_returns_one_chunk",
+  "tests/test_main.py::test_basic_math",
+  "tests/test_text_chunker.py::test_chunks_respect_maximum_size",
+  "tests/test_text_chunker.py::test_empty_text_returns_no_chunks",
+  "tests/test_text_chunker.py::test_invalid_overlap_raises_error",
+  "tests/test_text_chunker.py::test_short_text_returns_one_chunk"
+]
