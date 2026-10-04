@@ -34,3 +34,38 @@ python .\src\main.py
 ```powershell
 python -m pytest
 ```
+# RAG-Based Enterprise Q&A Assistant
+
+## Overview
+
+An enterprise question-answering application that uses Retrieval-Augmented Generation (RAG) to answer natural-language questions using a collection of documents.
+
+## Planned Features
+
+- Document ingestion and text extraction
+- Text chunking and metadata preservation
+- Embeddings and vector similarity search
+- LLM-generated answers grounded in retrieved context
+- Source citations
+- Chat interface and feedback collection
+- Automated document refresh using Apache Airflow
+- Containerization and AWS deployment
+
+## Technology Stack
+
+- Python 3.12
+- FastAPI
+- Streamlit
+- PostgreSQL with pgvector
+- Embedding model and LLM API
+- Apache Airflow
+- Docker
+- AWS
+
+## Project Status
+
+Phase 1: Development environment and project structure.
+
+## Local Development
+
+The project uses a Python virtual environment. Setup instructions and dependencies will be added as development progresses.
