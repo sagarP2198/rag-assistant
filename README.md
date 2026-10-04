@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Assistant
 
 An AI-powered Retrieval-Augmented Generation (RAG) assistant that will retrieve relevant information from documents and use it to generate context-aware answers.
@@ -69,3 +70,7 @@ Phase 1: Development environment and project structure.
 ## Local Development
 
 The project uses a Python virtual environment. Setup instructions and dependencies will be added as development progresses.
+=======
+# rag-assistant
+RAG based Q&amp;A
+>>>>>>> 98a71fe5330cd74a24e4ac0acb5746858d779d06
